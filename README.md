@@ -1,8 +1,4 @@
-<h1>Hi, I'm Priscila 🌸</h1>
-
-
-
-<h2>Hi there! <img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40" valign="middle"/></h2>
+<h1>Hi there! I'm Priscila <img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40" valign="middle"/></h1>
 
 
 
