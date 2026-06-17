@@ -30,33 +30,13 @@
 
 
 
-<!-- Contenedor alineado lado a lado (Current Project + Skills) -->
+<!-- Contenedor alineado lado a lado (Skills a la izquierda, Current Project a la derecha) -->
 
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
 &#x20; 
 
-&#x20; <!-- Columna 1: Current Project -->
-
-&#x20; <div style="flex: 1; min-width: 250px;">
-
-&#x20;   <h3>Current Project 🌍✨</h3>
-
-&#x20;   <p>I’m currently involved in the <strong>Yape al Exterior (Yapex)</strong> project 💫</p>
-
-&#x20;   <ul>
-
-&#x20;     <li>🇨🇱 Participated in the Martech setup for Chile</li>
-
-&#x20;     <li>🇺🇸 Now working on the Martech implementation for the United States expansion</li>
-
-&#x20;   </ul>
-
-&#x20; </div>
-
-
-
-&#x20; <!-- Columna 2: Skills -->
+&#x20; <!-- Columna 1: Skills (Izquierda según boceto) -->
 
 &#x20; <div style="flex: 1; min-width: 250px;">
 
@@ -77,6 +57,26 @@
 &#x20;     <img src="https://img.shields.io/badge/AppsFlyer-00CA9D?style=for-the-badge\&logo=appsflyer\&logoColor=white" alt="AppsFlyer" />
 
 &#x20;   </div>
+
+&#x20; </div>
+
+
+
+&#x20; <!-- Columna 2: Current Project (Derecha según boceto) -->
+
+&#x20; <div style="flex: 1; min-width: 250px;">
+
+&#x20;   <h3>Current Project 🌍✨</h3>
+
+&#x20;   <p>I’m currently involved in the <strong>Yape al Exterior (Yapex)</strong> project 💫</p>
+
+&#x20;   <ul>
+
+&#x20;     <li>🇨🇱 Participated in the Martech setup for Chile</li>
+
+&#x20;     <li>🇺🇸 Now working on the Martech implementation for the United States expansion</li>
+
+&#x20;   </ul>
 
 &#x20; </div>
 
