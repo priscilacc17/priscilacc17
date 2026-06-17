@@ -36,19 +36,29 @@
 
 
 
-<h3>Fun Side 🎮🐾</h3>
+<hr />
 
 
 
-<ul>
+<!-- Sección de Skills inspirada en image\_a70161.png -->
 
-&#x20; <li>Play video games 🎮</li>
+<h3>Skills 🛠️</h3>
 
-&#x20; <li>Spend time with my pets 🐾💗</li>
 
-&#x20; <li>Recharge and enjoy calm moments 🌸</li>
 
-</ul>
+<p align="center">
+
+&#x20; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" />
+
+&#x20; <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white" alt="Databricks" />
+
+&#x20; <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge\&logo=google-analytics\&logoColor=white" alt="GA4" />
+
+&#x20; <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black" alt="Power BI" />
+
+&#x20; <img src="https://img.shields.io/badge/AppsFlyer-00CA9D?style=for-the-badge\&logo=appsflyer\&logoColor=white" alt="AppsFlyer" />
+
+</p>
 
 
 
@@ -65,6 +75,8 @@
 <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maria-priscila-carrascal-castro/" target="\_blank">https://www.linkedin.com/in/maria-priscila-carrascal-castro/</a></p>
 
 
+
+<br clear="right"/>
 
 <hr />
 
