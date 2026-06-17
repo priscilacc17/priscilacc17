@@ -28,9 +28,9 @@
 
 <ul>
 
-&#x20; <li>🇨🇱 Participated in the Martech setup for Chile</li>
+&#x20; <li>🇨🇱 Participated in the Martech area setup for Chile</li>
 
-&#x20; <li>🇺🇸 Now working on the Martech implementation for the United States expansion</li>
+&#x20; <li>🇺🇸 Now working on the Martech area implementation for the United States expansion</li>
 
 </ul>
 
