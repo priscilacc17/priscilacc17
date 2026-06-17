@@ -10,7 +10,7 @@
 
 
 
-<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, ML \& AI 🤖</p>
+<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, Machine Learning \& AI 🤖</p>
 
 
 
