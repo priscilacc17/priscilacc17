@@ -14,7 +14,7 @@
 
 
 
-<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, ML \& AI 🤖📊✨</p>
+<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, ML \& AI 🤖✨</p>
 
 
 
@@ -23,22 +23,6 @@
 
 
 <p>I also work on <strong>tracking/tagging implementation</strong> across the Yape app 📱 making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗</p>
-
-
-
-<p>I work daily with tools like:</p>
-
-<ul>
-
-&#x20; <li><strong>Databricks</strong> ☁️</li>
-
-&#x20; <li><strong>AppsFlyer</strong> 📲</li>
-
-&#x20; <li><strong>Power BI</strong> 📊</li>
-
-&#x20; <li><strong>GA4</strong> 📈</li>
-
-</ul>
 
 
 
@@ -61,10 +45,6 @@
 &#x20; <li>🇺🇸 Now working on the Martech implementation for the United States expansion</li>
 
 </ul>
-
-
-
-<p>Always building something meaningful and scalable 🚀💖</p>
 
 
 
