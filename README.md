@@ -2,7 +2,7 @@
 
 
 
-<h3>About Me ✨</h3>
+<i><h3><i>About Me ✨<i></h3>
 
 
 
@@ -40,27 +40,23 @@
 
 
 
-<!-- Sección de Skills centrada (Título + Badges) -->
+<!-- Sección de Skills inspirada en image\_a70161.png -->
 
-<div align="center">
+<p align="center">
 
-&#x20; <h3>Skills 🛠️</h3>
+<h3>Skills 🛠️</h3>
 
-&#x20; <p>
+&#x20; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" />
 
-&#x20;   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" />
+&#x20; <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white" alt="Databricks" />
 
-&#x20;   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white" alt="Databricks" />
+&#x20; <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge\&logo=google-analytics\&logoColor=white" alt="GA4" />
 
-&#x20;   <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge\&logo=google-analytics\&logoColor=white" alt="GA4" />
+&#x20; <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black" alt="Power BI" />
 
-&#x20;   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black" alt="Power BI" />
+&#x20; <img src="https://img.shields.io/badge/AppsFlyer-00CA9D?style=for-the-badge\&logo=appsflyer\&logoColor=white" alt="AppsFlyer" />
 
-&#x20;   <img src="https://img.shields.io/badge/AppsFlyer-00CA9D?style=for-the-badge\&logo=appsflyer\&logoColor=white" alt="AppsFlyer" />
-
-&#x20; </p>
-
-</div>
+</p>
 
 
 
@@ -80,9 +76,15 @@
 
 <br clear="right"/>
 
+
+
 <hr />
 
 
 
 <p align="center">💫 <i><strong>Always learning, always building, always growing</strong></i> 💫</p>
+
+
+
+
 
