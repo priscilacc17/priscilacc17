@@ -1,8 +1,8 @@
-<h1>Hi, I'm Priscila</h1>
+\# Hi, I'm Priscila
 
 
 
-<hr />
+\---
 
 
 
@@ -14,79 +14,95 @@
 
 
 
-<h3>Hi there! <img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40"/></h3>
+\## Hi there!  
+
+<img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40"/>
 
 
 
-<h3>About Me 💖</h3>
+\## About Me 💖
 
 
 
-I’m a <strong>Software Engineering student</strong> with a strong interest in  
+I’m a \*\*Software Engineering student\*\* with a strong interest in  
 
-<strong>Data Engineering, Machine Learning, and Artificial Intelligence</strong> 🤖📊✨
-
-
-
-I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸  
-
-supporting a Martech team focused on <strong>data-driven decision making</strong> 💡
+\*\*Data Engineering, Machine Learning, and Artificial Intelligence\*\* 🤖📊✨
 
 
 
-I work daily with:
+I currently work as a \*\*Martech Data Analyst at Yape (BCP)\*\* 💳🌸  
+
+supporting a Martech (Marketing Technology) team focused on enabling \*\*data-driven decision making\*\* across business areas like lending and remittances 💡
 
 
 
-\- Databricks ☁️  
-
-\- AppsFlyer 📲  
-
-\- Power BI 📊  
-
-\- GA4 📈  
+I work daily with tools like:
 
 
 
-I also work on tracking/tagging implementation across the Yape app 📱
+\- Databricks ☁️
+
+\- AppsFlyer 📲
+
+\- Power BI 📊
+
+\- GA4 📈
 
 
 
-<hr />
+where I analyze data, build reports, and present insights to different product teams 👩‍💻✨
 
 
 
-<h3>Current Project 🌍✨</h3>
+I also work on \*\*tracking/tagging implementation\*\* across the Yape app 📱  
+
+making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗
 
 
 
-\- 🇨🇱 Martech setup for Chile  
-
-\- 🇺🇸 US expansion implementation  
+\---
 
 
 
-<hr />
+\## Current Project 🌍✨
 
 
 
-<h3>Fun Side 🎮🐾</h3>
+I’m currently involved in the \*\*Yape al Exterior (Yapex)\*\* project 💫
 
 
 
-\- Video games 🎮  
+\- 🇨🇱 Participated in the Martech setup for Chile  
 
-\- Pets 🐾💗  
-
-\- Calm moments 🌸  
+\- 🇺🇸 Now working on the Martech implementation for the United States expansion  
 
 
 
-<hr />
+Always building something meaningful and scalable 🚀💖
 
 
 
-<h3>Contact 💌</h3>
+\---
+
+
+
+\## Fun Side 🎮🐾
+
+
+
+\- Play video games 🎮  
+
+\- Spend time with my pets 🐾💗  
+
+\- Recharge and enjoy calm moments 🌸  
+
+
+
+\---
+
+
+
+\## Contact Me 💌✨
 
 
 
@@ -96,11 +112,11 @@ I also work on tracking/tagging implementation across the Yape app 📱
 
 
 
-<hr />
+\---
 
 
 
-💫 Always learning, always building, always growing
+💫 \*Always learning, always building, always growing\*
 
 
 
