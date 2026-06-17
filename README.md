@@ -14,7 +14,7 @@
 
 
 
-<p>I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling <strong>data-driven decision making</strong> across business areas like lending and remittances ...where I analyze data, build reports, and present insights to different product teams 👩‍💻</p>
+<p>I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling <strong>data-driven decision making</strong> across business areas like lending and remittances ...where I analyze data, build reports, and present insights to different product teams 👩‍💻✨</p>
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-<p><strong>Current Project</strong>: I’m currently involved in the <strong>Yape al Exterior (Yapex) 💜</strong> project </p>
+<p><strong>💗Current Project</strong>: I’m currently involved in the <strong>Yape al Exterior (Yapex) 💜</strong> project </p>
 
 
 
@@ -71,10 +71,6 @@
 <p>📧 <strong>Email:</strong> <a href="mailto:carrascalpriscila@gmail.com">carrascalpriscila@gmail.com</a></p>
 
 <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maria-priscila-carrascal-castro/" target="\_blank">https://www.linkedin.com/in/maria-priscila-carrascal-castro/</a></p>
-
-
-
-<br clear="right"/>
 
 
 
