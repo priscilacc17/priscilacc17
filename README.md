@@ -2,7 +2,7 @@
 
 
 
-<h3>About Me 💖</h3>
+<h3><i>About Me 💖<i></h3>
 
 
 
@@ -42,11 +42,11 @@
 
 <!-- Sección de Skills inspirada en image\_a70161.png -->
 
+<p align="center">
+
 <h3>Skills 🛠️</h3>
 
 
-
-<p align="center">
 
 &#x20; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" />
 
@@ -82,5 +82,5 @@
 
 
 
-<p align="center">💫 <i>Always learning, always building, always growing</i></p>
+<p align="center">💫 <i><strong>Always learning, always building, always growing</strong></i></p>
 
