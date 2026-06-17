@@ -1,62 +1,46 @@
-\# Hi, I'm Priscila
+\# Hi, I'm Priscila 🌸
 
 
 
-\---
+<!-- Imagen flotante a la derecha (según image\_b16723.png) -->
+
+<img src="https://i.pinimg.com/originals/18/36/3d/18363d17826ce967393a0e7fe7989ef6.gif" width="250" align="right" alt="Hello Kitty" />
 
 
 
-<table>
-
-&#x20; <tr>
-
-&#x20;   <td valign="top">
+\## Hi there! <img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40" valign="middle"/>
 
 
 
-\## Hi there!  
-
-<img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40"/>
+\### About Me 💖
 
 
 
-\## About Me 💖
+I’m a \*\*Software Engineering student\*\* with a strong interest in \*\*Data Engineering, Machine Learning, and Artificial Intelligence\*\* 🤖📊✨
 
 
 
-I’m a \*\*Software Engineering student\*\* with a strong interest in  
-
-\*\*Data Engineering, Machine Learning, and Artificial Intelligence\*\* 🤖📊✨
-
-
-
-I currently work as a \*\*Martech Data Analyst at Yape (BCP)\*\* 💳🌸  
-
-supporting a Martech (Marketing Technology) team focused on enabling \*\*data-driven decision making\*\* across business areas like lending and remittances 💡
+I currently work as a \*\*Martech Data Analyst at Yape (BCP)\*\* 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling \*\*data-driven decision making\*\* across business areas like lending and remittances 💡
 
 
 
 I work daily with tools like:
 
+\- \*\*Databricks\*\* ☁️
 
+\- \*\*AppsFlyer\*\* 📲
 
-\- Databricks ☁️
+\- \*\*Power BI\*\* 📊
 
-\- AppsFlyer 📲
-
-\- Power BI 📊
-
-\- GA4 📈
-
-
-
-where I analyze data, build reports, and present insights to different product teams 👩‍💻✨
+\- \*\*GA4\*\* 📈
 
 
 
-I also work on \*\*tracking/tagging implementation\*\* across the Yape app 📱  
+...where I analyze data, build reports, and present insights to different product teams 👩‍💻✨
 
-making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗
+
+
+I also work on \*\*tracking/tagging implementation\*\* across the Yape app 📱 making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗
 
 
 
@@ -64,7 +48,7 @@ making sure every UI interaction is properly structured so developers can orches
 
 
 
-\## Current Project 🌍✨
+\### Current Project 🌍✨
 
 
 
@@ -86,7 +70,7 @@ Always building something meaningful and scalable 🚀💖
 
 
 
-\## Fun Side 🎮🐾
+\### Fun Side 🎮🐾
 
 
 
@@ -102,13 +86,17 @@ Always building something meaningful and scalable 🚀💖
 
 
 
-\## Contact Me 💌✨
+\### Contact Me 💌✨
 
 
 
-📧 Email: yourname@gmail.com  
+📧 \*\*Email:\*\* \[yourname@gmail.com](mailto:yourname@gmail.com)  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile  
+🔗 \*\*LinkedIn:\*\* \[linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
+
+
+
+<br clear="right"/>
 
 
 
@@ -116,21 +104,5 @@ Always building something meaningful and scalable 🚀💖
 
 
 
-💫 \*Always learning, always building, always growing\*
-
-
-
-&#x20;   </td>
-
-
-
-&#x20;   <td width="30%" valign="top">
-
-&#x20;     <img src="https://i.pinimg.com/originals/18/36/3d/18363d17826ce967393a0e7fe7989ef6.gif" width="250"/>
-
-&#x20;   </td>
-
-&#x20; </tr>
-
-</table>
+<p align="center">💫 <i>Always learning, always building, always growing</i></p>
 
