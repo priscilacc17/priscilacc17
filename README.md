@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Priscila <img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40" valign="middle"/></h1>
+<div align="center"><h1>Hi there! I'm Priscila <img src="https://usagif.com/wp-content/uploads/gify/hello-kitty-usagif-animation-38.gif" width="40" valign="middle"/></h1></div>
 
 
 
@@ -41,8 +41,6 @@
 
 
 <!-- Sección de Skills inspirada en image\_a70161.png -->
-
-<div align="center">
 
 <div align="center">
 
