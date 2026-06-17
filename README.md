@@ -14,11 +14,15 @@
 
 
 
-<p>I’m a <strong>Software Engineering student</strong> with a strong interest in <strong>Data Engineering, Machine Learning, and Artificial Intelligence</strong> 🤖📊✨</p>
+<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, ML \& AI 🤖📊✨</p>
 
 
 
-<p>I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling <strong>data-driven decision making</strong> across business areas like lending and remittances 💡</p>
+<p>I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling <strong>data-driven decision making</strong> across business areas like lending and remittances ...where I analyze data, build reports, and present insights to different product teams 👩‍💻✨</p>
+
+
+
+<p>I also work on <strong>tracking/tagging implementation</strong> across the Yape app 📱 making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗</p>
 
 
 
@@ -35,14 +39,6 @@
 &#x20; <li><strong>GA4</strong> 📈</li>
 
 </ul>
-
-
-
-<p>...where I analyze data, build reports, and present insights to different product teams 👩‍💻✨</p>
-
-
-
-<p>I also work on <strong>tracking/tagging implementation</strong> across the Yape app 📱 making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗</p>
 
 
 
@@ -100,9 +96,9 @@
 
 
 
-<p>📧 <strong>Email:</strong> <a href="mailto:yourname@gmail.com">yourname@gmail.com</a></p>
+<p>📧 <strong>Email:</strong> <a href="mailto:carrascalpriscila@gmail.com">carrascalpriscila@gmail.com</a></p>
 
-<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="\_blank">linkedin.com/in/your-profile</a></p>
+<p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maria-priscila-carrascal-castro/" target="\_blank">https://www.linkedin.com/in/maria-priscila-carrascal-castro/</a></p>
 
 
 
