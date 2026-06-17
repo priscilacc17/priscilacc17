@@ -2,7 +2,7 @@
 
 
 
-<h3><i>About Me 💖<i></h3>
+<h3>About Me ✨</h3>
 
 
 
@@ -10,19 +10,19 @@
 
 
 
-<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, ML \& AI 🤖✨</p>
+<p>I’m a <strong>Software Engineering student</strong> with a strong interest in Data Engineering, ML \& AI 🤖</p>
 
 
 
-<p>I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling <strong>data-driven decision making</strong> across business areas like lending and remittances ...where I analyze data, build reports, and present insights to different product teams 👩‍💻✨</p>
+<p>I currently work as a <strong>Martech Data Analyst at Yape (BCP)</strong> 💳🌸 supporting a Martech (Marketing Technology) team focused on enabling <strong>data-driven decision making</strong> across business areas like lending and remittances ...where I analyze data, build reports, and present insights to different product teams 👩‍💻</p>
 
 
 
-<p>I also work on <strong>tracking/tagging implementation</strong> across the Yape app 📱 making sure every UI interaction is properly structured so developers can orchestrate analytics correctly 💗</p>
+<p>I also work on <strong>tracking/tagging implementation</strong> across the Yape app 📱 making sure every UI interaction is properly structured so developers can orchestrate analytics correctly</p>
 
 
 
-<p>🌍Current Project: I’m currently involved in the <strong>Yape al Exterior (Yapex) 💜</strong> project </p>
+<p><strong>Current Project</strong>: I’m currently involved in the <strong>Yape al Exterior (Yapex) 💜</strong> project </p>
 
 
 
@@ -40,25 +40,27 @@
 
 
 
-<!-- Sección de Skills inspirada en image\_a70161.png -->
+<!-- Sección de Skills centrada (Título + Badges) -->
 
-<p align="center">
+<div align="center">
 
-<h3>Skills 🛠️</h3>
+&#x20; <h3>Skills 🛠️</h3>
 
+&#x20; <p>
 
+&#x20;   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" />
 
-&#x20; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" />
+&#x20;   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white" alt="Databricks" />
 
-&#x20; <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white" alt="Databricks" />
+&#x20;   <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge\&logo=google-analytics\&logoColor=white" alt="GA4" />
 
-&#x20; <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge\&logo=google-analytics\&logoColor=white" alt="GA4" />
+&#x20;   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black" alt="Power BI" />
 
-&#x20; <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black" alt="Power BI" />
+&#x20;   <img src="https://img.shields.io/badge/AppsFlyer-00CA9D?style=for-the-badge\&logo=appsflyer\&logoColor=white" alt="AppsFlyer" />
 
-&#x20; <img src="https://img.shields.io/badge/AppsFlyer-00CA9D?style=for-the-badge\&logo=appsflyer\&logoColor=white" alt="AppsFlyer" />
+&#x20; </p>
 
-</p>
+</div>
 
 
 
@@ -66,7 +68,7 @@
 
 
 
-<h3>Contact Me 💌✨</h3>
+<h3>Contact Me 💌</h3>
 
 
 
@@ -82,5 +84,5 @@
 
 
 
-<p align="center">💫 <i><strong>Always learning, always building, always growing</strong></i></p>
+<p align="center">💫 <i><strong>Always learning, always building, always growing</strong></i> 💫</p>
 
