@@ -22,7 +22,7 @@
 
 
 
-<p><strong>💗Current Project</strong>: I’m currently involved in the <strong>Yape al Exterior (Yapex) 💜</strong> project </p>
+<p><strong>💗 Current Project 💗</strong>: I’m currently involved in the <strong>Yape al Exterior (Yapex)</strong> project </p>
 
 
 
