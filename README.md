@@ -2,7 +2,7 @@
 
 
 
-<i><h3><i>About Me ✨<i></h3>
+<i><h3>About Me ✨</h3>
 
 
 
@@ -38,7 +38,7 @@
 
 <hr />
 
-
+</i>
 
 <!-- Sección de Skills inspirada en image\_a70161.png -->
 
