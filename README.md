@@ -2,11 +2,11 @@
 
 
 
-<img src="https://i.pinimg.com/originals/18/36/3d/18363d17826ce967393a0e7fe7989ef6.gif" width="250" align="right" alt="Hello Kitty" />
-
-
-
 <h3>About Me 💖</h3>
+
+
+
+<img src="https://i.pinimg.com/originals/18/36/3d/18363d17826ce967393a0e7fe7989ef6.gif" width="300" align="right" alt="Hello Kitty" />
 
 
 
@@ -22,11 +22,7 @@
 
 
 
-<h2>Current Project 🌍✨</h2>
-
-
-
-<p>I’m currently involved in the <strong>Yape al Exterior (Yapex)</strong> project 💫</p>
+<p>Current Project 🌍✨: I’m currently involved in the <strong>Yape al Exterior (Yapex)</strong> project 💫</p>
 
 
 
